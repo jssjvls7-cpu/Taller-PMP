@@ -55,7 +55,7 @@ carpeta = '/content/drive/MyDrive/Colab Notebooks/Datos taller'
 
 ---
 
-## Requisitos del Entorno (Instalación Automática)
+## Requisitos del Entorno 
 El script se encarga de preparar el entorno virtual de Colab instalando e importando:
 * **Análisis Espacial y Climático:** `xarray`, `netcdf4`, `geopandas`, `rioxarray`
 * **Manejo de Matrices y Estadísticas:** `numpy`, `pandas`, `scipy`

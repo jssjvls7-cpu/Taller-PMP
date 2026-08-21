@@ -10,7 +10,7 @@
 Sigue estos pasos obligatorios para configurar el entorno y los datos antes de ejecutar el código:
 
 ### 1. Descargar y descomprimir los datos
-1. Descarga el archivo comprimido enviado: `Datos_taller.zip`).
+1. Descarga el archivo comprimido enviado: `Datos_taller.zip` o del enlace " https://drive.google.com/drive/folders/13qe4tEGFIoXPcOdMW4CiJVhM5i4UEcRG?usp=drive_link "
 2. Descomprime el archivo en tu computadora. 
 3. Obtendrás una carpeta principal llamada **`Datos taller`** que contiene todos los archivos `.nc` junto con las subcarpetas `mascara` y `shp`.
 
